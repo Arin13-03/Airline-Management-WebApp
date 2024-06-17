@@ -1,24 +1,25 @@
-# Airline Management WebApp
+# Airline Management WebApp: Flight Booking Application
 
-This is a flight booking application with the following features:
+Welcome to the Airline Management WebApp, your comprehensive flight booking application! Here's a quick overview of what you can expect:
 
-- Secure user authentication using JWT tokens.
-- Encrypted password using cryptographic hash.
-- React + Vite based frontend framework.
-- Integration with Razorpay payment gateway for secure transactions.
-- Orders + Orders Validation on Successful Payment.
-- MongoDB database for storing user information and flight details.
-- Chakra UI based frontend for a sleek and modern user interface.
-- Admin portal for Adding flights and Removing User Profiles.
-- Notification system using React-toastify.
+## Features
 
+- **Secure User Authentication**: Utilize JWT tokens for secure login and session management.
+- **Password Encryption**: Passwords are securely encrypted using cryptographic hashing techniques.
+- **Modern Frontend**: Built with React and Vite for a fast, responsive user experience.
+- **Payment Integration**: Secure transactions through Razorpay payment gateway.
+- **Order Management**: Orders and validation upon successful payment.
+- **Database**: MongoDB for efficient storage of user and flight data.
+- **Sleek UI**: Modern and intuitive design with Chakra UI.
+- **Admin Portal**: Manage flights and user profiles easily.
+- **Notifications**: Stay updated with React-toastify notifications.
 
 ## Getting Started
 
-To get started with AirHawks, follow these steps:
+Follow these steps to get your Airline Management WebApp up and running:
 
-1. Clone the repository:
-```git clone https://github.com/your-username/Airline-Management-WebApp.git```
+1. **Clone the Repository**:
+   ```git clone https://github.com/your-username/Airline-Management-WebApp.git```
 2. Change directory to frontend:
 ```cd frontend```
 3. Install dependencies:
