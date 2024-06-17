@@ -1,6 +1,6 @@
 # Airline Management WebApp
 
-AirHawks is a flight booking application with the following features:
+This is a flight booking application with the following features:
 
 - Secure user authentication using JWT tokens.
 - Encrypted password using cryptographic hash.
@@ -40,8 +40,15 @@ To get started with AirHawks, follow these steps:
 
 ## Contribution:
 
-This project is open to contribution. There may also be some suggesstions regarding stylesheet and other functionalities.
+This project is open to contribution. There may also be some suggestions regarding stylesheets and other functionalities.
+
+## Future Improvements and Modifications:
+
+We can implement this Web2 App into Web3 by introducing Smart contracts to enable decentralization.
+Also, You can play around with more trending DBMS like PostgreSQL, etc.
 
 Happy Contributing!!
+
+
 
 
